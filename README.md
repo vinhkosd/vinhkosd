@@ -1,16 +1,36 @@
-### Hi there 👋
+<br />
 
-<!--
-**vinhkosd/vinhkosd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game developer
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Backend developer
+
+- 💼 Programmer at [CyrusTeam3X](https://cyrusteam3x.github.io/)
+
+- 📈 Study at FPT Polytechnic
+
+- ❤️ Favorite languages: Javascript, Lua script, PHP
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/vinhkosd"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinhkosd&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vinhkosd"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhkosd&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/vinhkosd/ro-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=ro-client&theme=buefy" />
+</a>
+<a href="https://github.com/vinhkosd/personal-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=personal-management&theme=buefy" />
+</a>
