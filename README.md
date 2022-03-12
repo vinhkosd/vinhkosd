@@ -39,3 +39,6 @@ Game developer
 <a href="https://github.com/vinhkosd/qb-adminmenu-for-esx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=qb-adminmenu-for-esx&theme=buefy" />
 </a>
+<a href="https://github.com/vinhkosd/pepe-vehiclekeys-for-esx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=pepe-vehiclekeys-for-esx&theme=buefy" />
+</a>
