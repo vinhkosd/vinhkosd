@@ -4,6 +4,8 @@ Game developer
 
 **About me**
 
+- 💼 FiveM(GTA 5) developer
+
 - 💼 Backend developer
 
 - 💼 Programmer at [CyrusTeam3X](https://cyrusteam3x.github.io/)
@@ -33,4 +35,7 @@ Game developer
 </a>
 <a href="https://github.com/vinhkosd/personal-management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=personal-management&theme=buefy" />
+</a>
+<a href="https://github.com/vinhkosd/qb-adminmenu-for-esx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=qb-adminmenu-for-esx&theme=buefy" />
 </a>
