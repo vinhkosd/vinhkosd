@@ -8,7 +8,7 @@ Game developer
 
 - 💼 Backend developer
 
-- 💼 Mobile developer (Flutter) at Robusta Engineering Designs
+- 💼 Mobile developer (Flutter) at [Robusta Engineering Designs](https://www.robustaeng.com/)
 
 - 💼 Programmer at [CyrusTeam3X](https://cyrusteam3x.github.io/)
 
