@@ -10,7 +10,7 @@ Game developer
 
 - 💼 Mobile developer (Flutter) at [Robusta Engineering Designs](https://www.robustaeng.com/)
 
-- 💼 Programmer at [CyrusTeam3X](https://cyrusteam3x.github.io/)
+- 💼 DDTank Programmer at [CyrusTeam3X](https://cyrusteam3x.github.io/)
 
 - 📈 Study at FPT Polytechnic
 
