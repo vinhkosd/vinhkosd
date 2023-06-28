@@ -4,9 +4,9 @@ Game developer
 
 **About me**
 
-- 💼 [FiveM](https://fivem.net/)([GTA 5](https://www.rockstargames.com/V/)) developer
+- 💼 [FiveM](https://fivem.net/)([GTA 5](https://www.rockstargames.com/V/)) developer (my team has disbanded :x)
 
-- 💼 Backend developer
+- 💼 Backend developer (ExpressJS, NestJS, PHP)
 
 - 💼 Mobile developer (Flutter) at [Robusta Engineering Designs](https://www.robustaeng.com/)
 
